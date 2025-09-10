@@ -25,6 +25,10 @@ It showcases an **interactive 3D model** that users can customize in different w
 
 ---
 
+![Project Screenshot](public/CaptureSH2.PNG)  
+
+---
+
 ## 📂 Project Structure
 /components -> React components (3D model, UI controls, etc.)
 
