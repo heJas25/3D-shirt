@@ -20,10 +20,24 @@ It showcases an **interactive 3D model** that users can customize in different w
 
 ## 📸 Screenshot
 
-![Project Screenshot](./CaptureSH.PNG)  
-*(Replace this with an actual screenshot of your project)*  
+![Project Screenshot](public/CaptureSH.PNG)  
+
 
 ---
 
 ## 📂 Project Structure
+/components -> React components (3D model, UI controls, etc.)
+/pages -> Next.js pages
+/public -> Static assets (images, logos, textures)
+/styles -> Tailwind CSS styles
+
+## 🎯 Goals of the Project
+
+Learn and practice Next.js fundamentals
+
+Experiment with 3D rendering in React
+
+Understand state management with Valtio
+
+Explore how to integrate AI features into a web app
 
