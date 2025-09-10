@@ -1,12 +1,29 @@
-<<<<<<< HEAD
-# React + Vite
+# 🎨 3D Model Customizer with Next.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This mini-project was created to get familiar with **Next.js** and modern web development tools.  
+It showcases an **interactive 3D model** that users can customize in different ways:
 
-Currently, two official plugins are available:
+- 🖌️ Change the **color** of the model in real-time  
+- 🖼️ Upload an **image** to apply it as a **logo/texture** on the model  
+- 🤖 Use a simple **AI-powered customization assistant** to generate new styles automatically  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# 3D-shirt
->>>>>>> eaef7169961f66d1daa5becbc5b081f73bf1f140
+---
+
+## 🚀 Features
+- Built with **Next.js 14**  
+- 3D rendering powered by **Three.js** and **@react-three/fiber**  
+- State management with **Valtio**  
+- Responsive design with **Tailwind CSS**  
+- AI integration for smart customization  
+
+---
+
+## 📸 Screenshot
+
+![Project Screenshot](./CaptureSH.PNG)  
+*(Replace this with an actual screenshot of your project)*  
+
+---
+
+## 📂 Project Structure
+
